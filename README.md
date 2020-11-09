@@ -1,6 +1,6 @@
 # Work to be explored
 
-### 2020/11/05
+### 2020/11/09
 |Added by|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
 |shrikant|Indic-Transformers|[[slide]](./slides/20201105_rickywchen.pdf)|-|

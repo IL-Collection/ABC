@@ -1,6 +1,15 @@
 # Work to be explored
+### 2020/11/16
+#### Neural Text Simplification system can be explored for the Hindi language after doing proper literature survey.
+|Added by|Papers|Slides|Others|
+|:----:|:----|:----:|:-----:|
+|shrikant|Neural Text Simplification system|[[slide]](./slides/20201105_rickywchen.pdf)|-|
+|-|[[ACL 2017] Exploring Neural Text Simplification Models ](https://www.aclweb.org/anthology/P17-2014.pdf)|-|-|
+|-|[[GITHUB repo] Exploring Neural Text Simplification ](https://github.com/senisioi/NeuralTextSimplification)|-|-|
+
 
 ### 2020/11/09
+#### Encouraging with the task-specific model and method selection the paper achieve state-of-the-art performance on Hindi and Bengali languages for text clas-sification task. 
 |Added by|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
 |shrikant|Indic-Transformers|[[slide]](./slides/20201105_rickywchen.pdf)|-|

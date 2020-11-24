@@ -1,3 +1,6 @@
+# Important Link to follow
+### https://github.com/thu-coai
+
 # Work to be explored
 ### 2020/11/16
 #### Neural Text Simplification system can be explored for the Hindi language after doing proper literature survey.

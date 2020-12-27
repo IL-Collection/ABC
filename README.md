@@ -3,6 +3,12 @@
 ### https://speechlab.sjtu.edu.cn/
 
 # Work to be explored
+### 2020/12/27
+#### Using MuRIL (Multilingual Representations for Indian Languages) to observe the expected improved results of the BERT based DST models.
+|Added by|Papers|Slides|Others|
+|:----:|:----|:----:|:-----:|
+|shrikant|MuRIL (Multilingual Representations for Indian Languages)|[[link]](https://tfhub.dev/google/MuRIL/1)|-|
+
 ### 2020/11/16
 #### Neural Text Simplification system can be explored for the Hindi language after doing proper literature survey.
 |Added by|Papers|Slides|Others|

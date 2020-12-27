@@ -2,6 +2,15 @@
 ### https://github.com/thu-coai
 ### https://speechlab.sjtu.edu.cn/
 
+# Upcoming NLP Conferences
+### 2020/12/27
+|Conference|Submission Deadline|Conference Date|Website
+|:----:|:----|:----:|:-----:|
+|**INTERSPEECH 2021**: Conference of the International Speech Communication Association|Mar 26, 2021|Aug 30 - Sep 3, 2021|[[link]]( 	http://www.interspeech2021.org)|
+|**ACMMM 2021**: ACM Multimedia|Apr 3, 2021 |Oct 20 - Oct 24, 2021|[[link]](https://2021.acmmm.org)|
+|**EMNLP 2021**: Conference on Empirical Methods in Natural Language Processing|Jun 3, 2021 |Nov 7 - Nov 11, 2021|[[link]](https://2021.emnlp.org)|
+
+
 # Work to be explored
 ### 2020/12/27
 #### Using MuRIL (Multilingual Representations for Indian Languages) to observe the expected improved results of the BERT based DST models.

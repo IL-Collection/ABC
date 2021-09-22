@@ -12,6 +12,15 @@
 
 
 # Work to be explored
+
+### 2021/09/22
+#### Explore & Investigate the IBM's patent by [Dinesh Raghu](https://scholar.google.co.in/citations?hl=en&user=kphcPUkAAAAJ&view_op=list_works&sortby=pubdate) & Mitsubishi Electric Research Lab's Patent by [Chiori Hori](https://www.merl.com/people/chori):
+|Added by|**Patents**|Slides|Others|
+|:----:|:----|:----:|:-----:|
+|shrikant|System and Method for a Dialogue Response Generation System (patent)|[[link]](https://patentimages.storage.googleapis.com/9d/b5/36/afacde5171b86e/US20210082398A1.pdf)|-|
+|shrikant|Conversational agent generation (patent)|[[link]](https://patentimages.storage.googleapis.com/6d/de/e0/60d1011594c36c/US20200219494A1.pdf)|-|
+|shrikant|Modifying a language conversation model (patent)|[[link]](https://patentimages.storage.googleapis.com/28/e9/6c/a2961c7bcb7579/US10395641.pdf)|-|
+
 ### 2020/12/27
 #### Using MuRIL (Multilingual Representations for Indian Languages) to observe the expected improved results of the BERT based DST models.
 |Added by|Papers|Slides|Others|
@@ -28,7 +37,7 @@
 
 
 ### 2020/11/09
-#### Encouraging with the task-specific model and method selection the paper achieve state-of-the-art performance on Hindi and Bengali languages for text clas-sification task. 
+#### Encouraging with the task-specific model and method selection the paper achieve state-of-the-art performance on Hindi and Bengali languages for text clas-sification task.
 |Added by|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
 |shrikant|Indic-Transformers|[[slide]](./slides/20201105_rickywchen.pdf)|-|

@@ -12,6 +12,9 @@
 
 
 # Work to be explored
+### 2022/02/26
+#### Paper idea to follow for Tier-1 conference
+##### [Trade](https://github.com/jasonwu0731/trade-dst) model Modification: Add auxiliary features from the [Trippy](https://gitlab.cs.uni-duesseldorf.de/general/dsml/trippy-public/-/tree/master) and use of [Turn-label loss function](https://github.com/feay1234/TLF-SDA).
 
 ### 2021/09/22
 #### Explore & Investigate the IBM's patent by [Dinesh Raghu](https://scholar.google.co.in/citations?hl=en&user=kphcPUkAAAAJ&view_op=list_works&sortby=pubdate) & Mitsubishi Electric Research Lab's Patent by [Chiori Hori](https://www.merl.com/people/chori):
